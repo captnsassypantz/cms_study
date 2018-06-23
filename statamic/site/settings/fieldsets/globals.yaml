@@ -6,3 +6,11 @@ fields:
     display: Website Name
     instructions: The name of your website
     localizable: true
+#title: Default Globals
+#hide: true
+#fields:
+  site_nav:
+    type: pages
+    display: Test
+    instructions: test
+    localizable: true

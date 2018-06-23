@@ -9,13 +9,14 @@ fields:
     type: textarea
     display: Subtitle
     localizable: true
-  has_author:
-    type: toggle
+  #has_author:
+  #  type: toggle
   author:
     type: users
     max_items: 1
-    show_when:
-      has_author: true
+  #  show_when:
+  #    has_author: true
+
   intro_image:
     type: assets
     display: Intro Image

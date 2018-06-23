@@ -1,3 +1,12 @@
-fieldset: pages
-title: Nav
+site_nav:
+  - db0ae4e3-4f10-4802-bc40-0b880cbf02c7
+  - 3cd2d431-699c-417c-8d57-9183cd17a6fc
+  - de627bca-7595-429e-9b41-ad58703916d7
+  - 72c016c6-cc0a-4928-b53b-3275f3f6da0a
+fields:
+  site_nav:
+    type: text
+    display: Test
+    instructions: test
+    localizable: true
 id: 0562ff73-83e9-4c92-a3a5-34c8947c531b
